@@ -1,4 +1,12 @@
-  #Olá!! Eu sou Rachel Braga
+  ## Olá!! Eu sou Rachel Braga 🥰  
+
+  
+
+  
+  * Desenvolvedora Front-End
+
+ ##
+  
   
   
 <div align="center">
