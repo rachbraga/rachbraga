@@ -11,8 +11,8 @@
   
 <div align="center">
   <a href="https://github.com/rachbraga">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rachbraga&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
-     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachbraga&layout=compact&langs_count=7&theme=panda"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rachbraga&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachbraga&layout=compact&langs_count=7&theme=radical"/>
  
   
   <div style="display: inline_block"><br>
@@ -21,8 +21,7 @@
   <img align="center" alt="Rach-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="RAch-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rach-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rach-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
+  <img align="center" alt="Rach-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
     <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/989536834004602910/999721730618691644/rach-.png">
 
 </div>
@@ -34,7 +33,7 @@
   <a href="https://instagram.com/rachelmbraga" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:rmbragaa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rachel-braga-rm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://rachelbraga.vercel.app//" target="_blank"><img src="https://img.shields.io/badge/-Site-%230077B5?style=for-the-badge&logo=Color=white" target="_blank"></a> 
+   <a href="https://rachelbraga.vercel.app//" target="_blank"><img src="https://img.shields.io/badge/Portifólio-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white" target="_blank"></a>
 
  
 ![Snake animation](https://github.com/rachbraga/rachbraga/blob/output/github-contribution-grid-snake.svg)
