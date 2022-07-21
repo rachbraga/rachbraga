@@ -22,7 +22,7 @@
   <img align="center" alt="RAch-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rach-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rach-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/989536834004602910/999721730618691644/rach-.png">
+    <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/989536834004602910/999721730618691644/rach-.png">
 
 </div>
   
