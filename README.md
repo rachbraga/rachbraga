@@ -36,7 +36,7 @@
    <a href="https://rachelbraga.vercel.app//" target="_blank"><img src="https://img.shields.io/badge/Portifólio-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white" target="_blank"></a>
 
  
-![Snake animation](https://github.com/rachbraga/rachbraga/blob/output/github-contribution-grid-snake.svg)
+
  
  
 </div>
