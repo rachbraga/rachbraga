@@ -4,6 +4,7 @@
 
   
   * Desenvolvedora Front-End
+  * 🌱 Atualmente estou aprendendo Python | Django
 
  ##
   
