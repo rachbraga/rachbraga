@@ -4,7 +4,7 @@
 
   
   * Desenvolvedora FullStack
-  * 🌱 Atualmente estou estudando Angular e Vue.js
+  * 🌱 Atualmente estudando e testando meus conhecimentos.
 
  ##
   
