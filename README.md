@@ -49,7 +49,7 @@
   
    <a href = "mailto:rmbraga@icloud.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=apple&logoColor=white" target="_blank"></a>  	
   <a href="https://www.linkedin.com/in/rachel-braga-rm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://rachelbraga.vercel.app//" target="_blank"><img src="https://img.shields.io/badge/Portifólio-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white" target="_blank"></a>
+   <a href="https://rachelmbraga.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portifólio-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white" target="_blank"></a>
 
  
 
