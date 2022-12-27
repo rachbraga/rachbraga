@@ -4,7 +4,7 @@
 
   
   * Desenvolvedora FullStack
-  * 🌱 Atualmente estudando e testando meus conhecimentos.
+  * 🌱 Aprendendo e desenvolvendo cada dia mais.
 
  ##
   
