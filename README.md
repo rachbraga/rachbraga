@@ -1,9 +1,9 @@
-  ## Olá!! Eu sou Rachel Braga 🥰  
+  ## Olá!! Prazer, Rachel Braga 🥰  
 
   
 
   
-  * Desenvolvedora FullStack
+  * Desenvolvedora Frontend
   * 🌱 Aprendendo e desenvolvendo cada dia mais.
 
  ##
